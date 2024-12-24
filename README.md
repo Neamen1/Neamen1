@@ -17,4 +17,4 @@
     </table>
 </div>
 
-- 🔭 I’m currently working on <a href="https://github.com/Neamen1/Multithread-client-server"> Amusement park management system </a> - a service of booking and managing tickets, monitoring attractions and statistics with web-interface
+- 🔭 I’m currently working on <a href="https://github.com/Neamen1/Amusement-park-management-system"> Amusement park management system </a> - a service of booking and managing tickets, monitoring attractions and statistics with web-interface
