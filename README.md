@@ -1,7 +1,7 @@
 <div align="center" style="padding: 20px;">
     <h3>Hi there 👋, I'm Oleksii</h3>
     <p> Welcome to my programming journeys! </p>
-    <h4 align="left">My coding adventures</h4>
+    <h4 align="left">My projects</h4>
     <table align="center">
         <tr>
             <td><a href="https://github.com/Neamen1/Multithread-client-server"> Multithreaded client server app </a> - client-server application for matrix calculations</td>
