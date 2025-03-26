@@ -13,8 +13,7 @@
         </tr>
         <tr>
             <td><a href="https://github.com/Neamen1/PythonGameStarship"> Starship</a> - a Python game like old "Space Invaders" made with tkinter </td>
+            <td><a <a href="https://github.com/Neamen1/Amusement-park-management-system"> Amusement park management system </a> - an implementation of a search system based on the inverted index with web-interface targeted for an amusement park.
         </tr>
     </table>
 </div>
-
-- 🔭 I’m currently working on <a href="https://github.com/Neamen1/Amusement-park-management-system"> Amusement park management system </a> - a service of booking and managing tickets, monitoring attractions and statistics with web-interface with integrate inverted index search system
