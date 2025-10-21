@@ -1,6 +1,5 @@
 <div align="center" style="padding: 20px;">
-    <h3>Hi there 👋, I'm Oleksii</h3>
-    <p> Welcome to my programming journeys! </p>
+    <h3>Hi there 👋
     <h4 align="left">My projects</h4>
     <table align="center">
         <tr>
