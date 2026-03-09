@@ -7,7 +7,7 @@
             <td><a <a href="https://github.com/Neamen1/Amusement-park-management-system"> Amusement park management system </a> - inverted index search system, Flask web interface, unit testing, c++ sockets </td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Neamen1/Multithread-client-server"> Multithreaded client server app </a> for distributed matrix calculations</td>
+            <td><a href="https://github.com/Neamen1/Multithread-client-server"> Multithreaded client server app </a>(c++) for distributed matrix calculations</td>
             <td><a href="https://github.com/Neamen1/Warehouse-management-system"> Warehouse management system</a> - Flask, permissions and Docker database</td>
         </tr>
         <tr>
